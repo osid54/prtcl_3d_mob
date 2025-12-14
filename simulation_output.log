@@ -1,0 +1,307 @@
+
+  Enter:
+
+  1 for flow past a single particle
+    in an infinite domain
+  2 for flow past a single particle
+    in a semi-infinite domain
+    above a plane wall
+  3 for flow past a triply periodic array
+  7 for flow past a doubly periodic array
+    above a plane wall
+  0 to quit
+  ----------
+
+  Enter:
+
+  1 to read parameters from file prtcl_3d_mob.dat
+  2 to enter flow parameters
+  0 to quit
+  ---------
+
+  prtcl_3d_mob: number of nodes   :          258
+  prtcl_3d_mob: number of elements:          128
+
+  ellipsoid x semi-axis =   0.58480354764257325     
+  ellipsoid y semi-axis =    2.9240177382128660     
+  ellipsoid z semi-axis =   0.58480354764257325     
+
+Surface Area :   1.3668544432
+Volume       :   1.0002733726
+Centroid     :  -0.0000000036   1.0000000000  -0.0000000000
+
+
+  prtcl_3d_mob: properties of collocation points
+                computed
+
+ Now generating the influence matrix
+  prtcl_3d_mob: collocating at point:            1
+  prtcl_3d_mob: collocating at point:            2
+  prtcl_3d_mob: collocating at point:            3
+  prtcl_3d_mob: collocating at point:            4
+  prtcl_3d_mob: collocating at point:            5
+  prtcl_3d_mob: collocating at point:            6
+  prtcl_3d_mob: collocating at point:            7
+  prtcl_3d_mob: collocating at point:            8
+  prtcl_3d_mob: collocating at point:            9
+  prtcl_3d_mob: collocating at point:           10
+  prtcl_3d_mob: collocating at point:           11
+  prtcl_3d_mob: collocating at point:           12
+  prtcl_3d_mob: collocating at point:           13
+  prtcl_3d_mob: collocating at point:           14
+  prtcl_3d_mob: collocating at point:           15
+  prtcl_3d_mob: collocating at point:           16
+  prtcl_3d_mob: collocating at point:           17
+  prtcl_3d_mob: collocating at point:           18
+  prtcl_3d_mob: collocating at point:           19
+  prtcl_3d_mob: collocating at point:           20
+  prtcl_3d_mob: collocating at point:           21
+  prtcl_3d_mob: collocating at point:           22
+  prtcl_3d_mob: collocating at point:           23
+  prtcl_3d_mob: collocating at point:           24
+  prtcl_3d_mob: collocating at point:           25
+  prtcl_3d_mob: collocating at point:           26
+  prtcl_3d_mob: collocating at point:           27
+  prtcl_3d_mob: collocating at point:           28
+  prtcl_3d_mob: collocating at point:           29
+  prtcl_3d_mob: collocating at point:           30
+  prtcl_3d_mob: collocating at point:           31
+  prtcl_3d_mob: collocating at point:           32
+  prtcl_3d_mob: collocating at point:           33
+  prtcl_3d_mob: collocating at point:           34
+  prtcl_3d_mob: collocating at point:           35
+  prtcl_3d_mob: collocating at point:           36
+  prtcl_3d_mob: collocating at point:           37
+  prtcl_3d_mob: collocating at point:           38
+  prtcl_3d_mob: collocating at point:           39
+  prtcl_3d_mob: collocating at point:           40
+  prtcl_3d_mob: collocating at point:           41
+  prtcl_3d_mob: collocating at point:           42
+  prtcl_3d_mob: collocating at point:           43
+  prtcl_3d_mob: collocating at point:           44
+  prtcl_3d_mob: collocating at point:           45
+  prtcl_3d_mob: collocating at point:           46
+  prtcl_3d_mob: collocating at point:           47
+  prtcl_3d_mob: collocating at point:           48
+  prtcl_3d_mob: collocating at point:           49
+  prtcl_3d_mob: collocating at point:           50
+  prtcl_3d_mob: collocating at point:           51
+  prtcl_3d_mob: collocating at point:           52
+  prtcl_3d_mob: collocating at point:           53
+  prtcl_3d_mob: collocating at point:           54
+  prtcl_3d_mob: collocating at point:           55
+  prtcl_3d_mob: collocating at point:           56
+  prtcl_3d_mob: collocating at point:           57
+  prtcl_3d_mob: collocating at point:           58
+  prtcl_3d_mob: collocating at point:           59
+  prtcl_3d_mob: collocating at point:           60
+  prtcl_3d_mob: collocating at point:           61
+  prtcl_3d_mob: collocating at point:           62
+  prtcl_3d_mob: collocating at point:           63
+  prtcl_3d_mob: collocating at point:           64
+  prtcl_3d_mob: collocating at point:           65
+  prtcl_3d_mob: collocating at point:           66
+  prtcl_3d_mob: collocating at point:           67
+  prtcl_3d_mob: collocating at point:           68
+  prtcl_3d_mob: collocating at point:           69
+  prtcl_3d_mob: collocating at point:           70
+  prtcl_3d_mob: collocating at point:           71
+  prtcl_3d_mob: collocating at point:           72
+  prtcl_3d_mob: collocating at point:           73
+  prtcl_3d_mob: collocating at point:           74
+  prtcl_3d_mob: collocating at point:           75
+  prtcl_3d_mob: collocating at point:           76
+  prtcl_3d_mob: collocating at point:           77
+  prtcl_3d_mob: collocating at point:           78
+  prtcl_3d_mob: collocating at point:           79
+  prtcl_3d_mob: collocating at point:           80
+  prtcl_3d_mob: collocating at point:           81
+  prtcl_3d_mob: collocating at point:           82
+  prtcl_3d_mob: collocating at point:           83
+  prtcl_3d_mob: collocating at point:           84
+  prtcl_3d_mob: collocating at point:           85
+  prtcl_3d_mob: collocating at point:           86
+  prtcl_3d_mob: collocating at point:           87
+  prtcl_3d_mob: collocating at point:           88
+  prtcl_3d_mob: collocating at point:           89
+  prtcl_3d_mob: collocating at point:           90
+  prtcl_3d_mob: collocating at point:           91
+  prtcl_3d_mob: collocating at point:           92
+  prtcl_3d_mob: collocating at point:           93
+  prtcl_3d_mob: collocating at point:           94
+  prtcl_3d_mob: collocating at point:           95
+  prtcl_3d_mob: collocating at point:           96
+  prtcl_3d_mob: collocating at point:           97
+  prtcl_3d_mob: collocating at point:           98
+  prtcl_3d_mob: collocating at point:           99
+  prtcl_3d_mob: collocating at point:          100
+  prtcl_3d_mob: collocating at point:          101
+  prtcl_3d_mob: collocating at point:          102
+  prtcl_3d_mob: collocating at point:          103
+  prtcl_3d_mob: collocating at point:          104
+  prtcl_3d_mob: collocating at point:          105
+  prtcl_3d_mob: collocating at point:          106
+  prtcl_3d_mob: collocating at point:          107
+  prtcl_3d_mob: collocating at point:          108
+  prtcl_3d_mob: collocating at point:          109
+  prtcl_3d_mob: collocating at point:          110
+  prtcl_3d_mob: collocating at point:          111
+  prtcl_3d_mob: collocating at point:          112
+  prtcl_3d_mob: collocating at point:          113
+  prtcl_3d_mob: collocating at point:          114
+  prtcl_3d_mob: collocating at point:          115
+  prtcl_3d_mob: collocating at point:          116
+  prtcl_3d_mob: collocating at point:          117
+  prtcl_3d_mob: collocating at point:          118
+  prtcl_3d_mob: collocating at point:          119
+  prtcl_3d_mob: collocating at point:          120
+  prtcl_3d_mob: collocating at point:          121
+  prtcl_3d_mob: collocating at point:          122
+  prtcl_3d_mob: collocating at point:          123
+  prtcl_3d_mob: collocating at point:          124
+  prtcl_3d_mob: collocating at point:          125
+  prtcl_3d_mob: collocating at point:          126
+  prtcl_3d_mob: collocating at point:          127
+  prtcl_3d_mob: collocating at point:          128
+
+  Compute and print the inverse?
+
+  prtcl_3d_mob: system size:          390
+  gel: number of row interchanges :          110
+
+  prtcl_3d_mob: tractions for translation modes
+
+    1  -0.048   0.010   0.000
+    2  -0.050   0.000   0.002
+    3  -0.054   0.016   0.005
+    4  -0.049   0.006   0.003
+    5  -0.051  -0.002   0.000
+    6  -0.051   0.000  -0.010
+    7  -0.057  -0.003  -0.016
+    8  -0.052  -0.002  -0.005
+    9  -0.083  -0.005   0.012
+   10  -0.085  -0.009   0.007
+   11  -0.163  -0.015   0.016
+   12  -0.115  -0.008   0.010
+   13  -0.052  -0.001   0.002
+   14  -0.065  -0.008  -0.002
+   15  -0.063   0.004   0.011
+   16  -0.058  -0.004   0.006
+   17  -0.044   0.000  -0.009
+   18  -0.045   0.002   0.000
+   19  -0.051   0.004  -0.014
+   20  -0.046   0.003  -0.005
+   21  -0.046   0.000   0.002
+   22  -0.047  -0.010   0.000
+   23  -0.053  -0.015   0.005
+   24  -0.048  -0.005   0.003
+   25  -0.080   0.011   0.007
+   26  -0.082   0.007   0.012
+   27  -0.161   0.016   0.016
+   28  -0.111   0.009   0.010
+   29  -0.047   0.002   0.002
+   30  -0.061  -0.002   0.010
+   31  -0.059   0.010  -0.002
+   32  -0.053   0.005   0.006
+   33  -0.044  -0.000   0.009
+   34  -0.051  -0.004   0.014
+   35  -0.045  -0.002  -0.000
+   36  -0.046  -0.003   0.005
+   37  -0.080  -0.011  -0.007
+   38  -0.161  -0.016  -0.016
+   39  -0.082  -0.007  -0.012
+   40  -0.111  -0.009  -0.010
+   41  -0.046  -0.000  -0.002
+   42  -0.053   0.015  -0.005
+   43  -0.047   0.010  -0.000
+   44  -0.048   0.005  -0.003
+   45  -0.059  -0.010   0.002
+   46  -0.061   0.002  -0.010
+   47  -0.047  -0.002  -0.002
+   48  -0.053  -0.005  -0.006
+   49  -0.048  -0.010  -0.000
+   50  -0.054  -0.016  -0.005
+   51  -0.050  -0.000  -0.002
+   52  -0.049  -0.006  -0.003
+   53  -0.083   0.005  -0.012
+   54  -0.163   0.015  -0.016
+   55  -0.085   0.009  -0.007
+   56  -0.115   0.008  -0.010
+   57  -0.051   0.002  -0.000
+   58  -0.057   0.003   0.016
+   59  -0.051  -0.000   0.010
+   60  -0.052   0.002   0.005
+   61  -0.063  -0.004  -0.011
+   62  -0.065   0.008   0.002
+   63  -0.052   0.001  -0.002
+   64  -0.058   0.004  -0.006
+   65  -0.051   0.000   0.010
+   66  -0.051  -0.002  -0.000
+   67  -0.057  -0.003   0.016
+   68  -0.052  -0.002   0.005
+   69  -0.050   0.000  -0.002
+   70  -0.048   0.010  -0.000
+   71  -0.054   0.016  -0.005
+   72  -0.049   0.006  -0.003
+   73  -0.085  -0.009  -0.007
+   74  -0.083  -0.005  -0.012
+   75  -0.163  -0.015  -0.016
+   76  -0.115  -0.008  -0.010
+   77  -0.052  -0.001  -0.002
+   78  -0.063   0.004  -0.011
+   79  -0.065  -0.008   0.002
+   80  -0.058  -0.004  -0.006
+   81  -0.047  -0.010  -0.000
+   82  -0.046   0.000  -0.002
+   83  -0.053  -0.015  -0.005
+   84  -0.048  -0.005  -0.003
+   85  -0.045   0.002  -0.000
+   86  -0.044   0.000   0.009
+   87  -0.051   0.004   0.014
+   88  -0.046   0.003   0.005
+   89  -0.082   0.007  -0.012
+   90  -0.080   0.011  -0.007
+   91  -0.161   0.016  -0.016
+   92  -0.111   0.009  -0.010
+   93  -0.047   0.002  -0.002
+   94  -0.059   0.010   0.002
+   95  -0.061  -0.002  -0.010
+   96  -0.053   0.005  -0.006
+   97  -0.047   0.010   0.000
+   98  -0.053   0.015   0.005
+   99  -0.046  -0.000   0.002
+  100  -0.048   0.005   0.003
+  101  -0.082  -0.007   0.012
+  102  -0.161  -0.016   0.016
+  103  -0.080  -0.011   0.007
+  104  -0.111  -0.009   0.010
+  105  -0.045  -0.002   0.000
+  106  -0.051  -0.004  -0.014
+  107  -0.044  -0.000  -0.009
+  108  -0.046  -0.003  -0.005
+  109  -0.061   0.002   0.010
+  110  -0.059  -0.010  -0.002
+  111  -0.047  -0.002   0.002
+  112  -0.053  -0.005   0.006
+  113  -0.051  -0.000  -0.010
+  114  -0.057   0.003  -0.016
+  115  -0.051   0.002   0.000
+  116  -0.052   0.002  -0.005
+  117  -0.085   0.009   0.007
+  118  -0.163   0.015   0.016
+  119  -0.083   0.005   0.012
+  120  -0.115   0.008   0.010
+  121  -0.050  -0.000   0.002
+  122  -0.054  -0.016   0.005
+  123  -0.048  -0.010   0.000
+  124  -0.049  -0.006   0.003
+  125  -0.065   0.008  -0.002
+  126  -0.063  -0.004   0.011
+  127  -0.052   0.001   0.002
+  128  -0.058   0.004   0.006
+
+  prtcl_3d_mob: Linear and Angular Velocity
+
+    0.0438761023    0.0000000000   -0.0000000000
+    0.0000000000    0.0000000000    0.0005499199
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
