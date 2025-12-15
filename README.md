@@ -111,3 +111,33 @@ To test different scenarios (e.g., the ellipsoid orientations), modify the `run_
 | **Ellipsoid (Parallel)** | `5.0 1.0` | `0.0 0.0 0.5` | **Minimizes** Hindrance (Long axis parallel to wall) |
 
 The master script will automatically delete prior results, ensuring a clean run for the new configuration.
+
+-----
+
+## 6. GIF Animation Creation (Visualization)
+
+The final step is to combine the sequential PNG images from the experiment into a single GIF animation, which visually demonstrates the changing traction field and mobility as the wall distance decreases. This process uses the provided Python script `create_gif.py`, which requires the **Pillow** library.
+
+### A. Prerequisite: Pillow Library
+
+If you do not already have it, install the Pillow library:
+
+```bash
+pip install Pillow
+````
+
+### B. Execution
+
+Ensure the `create_gif.py` script is in your main project directory alongside the `Wall_Hindrance_Results/` folder.
+
+1.  **Run the GIF Creation Script:**
+
+    ```bash
+    python3 create_gif.py
+    ```
+
+    *The script is configured to look inside the `Wall_Hindrance_Results/` directory for all the individual PNG frames.*
+
+### C. Output
+
+A file named **`wall_hindrance_animation.gif`** will be generated inside the `Wall_Hindrance_Results/` folder. This GIF shows the evolution of the surface traction field and the labeled mobility values for every step of the wall-hindrance experiment. (Note: You may adjust the animation speed by modifying the `duration` parameter in `create_gif.py`).
