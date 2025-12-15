@@ -1,11 +1,8 @@
-````text
 # Wall Hindrance Mobility Analysis (BEM)
 
 This project simulates the hydrodynamic mobility of a rigid particle near a plane wall under Stokes flow conditions using a Fortran Boundary Element Method (BEM) solver (`prtcl_3d_mob`) and Python scripts for automation and visualization.
 
 The experiment systematically measures the particle's translational and angular velocities as a function of the **Surface Gap ($\delta$)** between the particle surface and a fixed, no-slip wall.
-
----
 
 ## 1. Prerequisites
 
@@ -105,7 +102,7 @@ This script reads `mobility_summary.csv` and generates a multi-panel plot saved 
 
 ## 5\. Experiment Customization (Ellipsoid Testing)
 
-To test different scenarios (e.g., the ellipsoid orientations), modify the `prtcl_3d_mob.dat` file before running the master script.
+To test different scenarios (e.g., the ellipsoid orientations), modify the `run_wall_experiment.py` file before running the master script.
 
 | Test Case | Aspect Ratios (`b/a c/a`) | Rotation Angles ($\phi_1, \phi_2, \phi_3$) | Effect |
 | :--- | :--- | :--- | :--- |
@@ -114,6 +111,3 @@ To test different scenarios (e.g., the ellipsoid orientations), modify the `prtc
 | **Ellipsoid (Parallel)** | `5.0 1.0` | `0.0 0.0 0.5` | **Minimizes** Hindrance (Long axis parallel to wall) |
 
 The master script will automatically delete prior results, ensuring a clean run for the new configuration.
-
-```
-```
